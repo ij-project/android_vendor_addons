@@ -172,46 +172,16 @@ PRODUCT_PACKAGES += \
     IconPackCircularSettingsOverlay \
     IconPackCircularSystemUIOverlay \
     IconPackCircularThemePickerOverlay \
-    IconPackVictorAndroidOverlay \
-    IconPackVictorLauncherOverlay \
-    IconPackVictorSettingsOverlay \
-    IconPackVictorSystemUIOverlay \
-    IconPackVictorThemePickerOverlay \
-    IconPackSamAndroidOverlay \
-    IconPackSamLauncherOverlay \
-    IconPackSamSettingsOverlay \
-    IconPackSamSystemUIOverlay \
-    IconPackSamThemePickerOverlay \
     IconPackKaiAndroidOverlay \
     IconPackKaiLauncherOverlay \
     IconPackKaiSettingsOverlay \
     IconPackKaiSystemUIOverlay \
     IconPackKaiThemePickerOverlay \
-    IconPackFilledAndroidOverlay \
-    IconPackFilledLauncherOverlay \
-    IconPackFilledSettingsOverlay \
-    IconPackFilledSystemUIOverlay \
-    IconPackFilledThemePickerOverlay \
     IconPackPUIAndroidOverlay \
     IconPackPUILauncherOverlay \
     IconPackPUISettingsOverlay \
     IconPackPUISystemUIOverlay \
     IconPackPUIThemePickerOverlay \
-    IconPackRoundedAndroidOverlay \
-    IconPackRoundedLauncherOverlay \
-    IconPackRoundedSettingsOverlay \
-    IconPackRoundedSystemUIOverlay \
-    IconPackRoundedThemePickerOverlay \
-    IconPackNostalgicAndroidOverlay \
-    IconPackNostalgicLauncherOverlay \
-    IconPackNostalgicSettingsOverlay \
-    IconPackNostalgicSystemUIOverlay \
-    IconPackNostalgicThemePickerOverlay \
-    IconPackOOSAndroidOverlay \
-    IconPackOOSLauncherOverlay \
-    IconPackOOSSettingsOverlay \
-    IconPackOOSSystemUIOverlay \
-    IconPackOOSThemePickerOverlay \
     IconPackOutlineAndroidOverlay \
     IconPackOutlineLauncherOverlay \
     IconPackOutlineSettingsOverlay \
@@ -224,13 +194,8 @@ PRODUCT_PACKAGES += \
     IconPackAuroraSystemUIOverlay \
     IconPackGradiconAndroidOverlay \
     IconPackGradiconSystemUIOverlay \
-    IconPackLornAndroidOverlay \
-    IconPackLornSystemUIOverlay \
     IconPackPlumpySystemUIOverlay \
-    IconPackPlumpyAndroidOverlay \
-    IconPackXperiaAndroidOverlay \
-    IconPackXperiaSettingsOverlay \
-    IconPackXperiaSystemUIOverlay
+    IconPackPlumpyAndroidOverlay
 
 # Icon Shapes
 PRODUCT_PACKAGES += \
